@@ -1,7 +1,7 @@
 // Task 1: Variables and Data Types
 
 let customerName = "Bob Marley";
-cosnt customerID = 618;
+const customerID = 618;
 var isPremiumMenber = false;
 
 console.log(customerName, typeof(customerName));
